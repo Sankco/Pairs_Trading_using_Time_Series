@@ -1,0 +1,35 @@
+# 数据处理和分析
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 金融数据获取
+yfinance>=0.2.0
+
+# 机器学习
+scikit-learn>=1.1.0
+
+# 统计分析
+statsmodels>=0.13.0
+
+# 技术指标
+ta>=0.10.0
+
+# 信号处理（小波变换）
+PyWavelets>=1.4.0
+
+# 动态模态分解
+pydmd>=0.4.0
+
+# 可视化
+matplotlib>=3.5.0
+
+# 优化算法（贝叶斯优化）
+scikit-optimize>=0.9.0
+
+# Jupyter notebook支持
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 数据可视化增强
+seaborn>=0.11.0
+plotly>=5.0.0 
